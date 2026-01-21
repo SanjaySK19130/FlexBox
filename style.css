@@ -146,29 +146,6 @@
 
 
 }
-
-
-/* .content2 {
- 
-    /* width: 100%;
-    height: 550px;
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-around;
-    align-items: start;
-    margin-top: 100px;
-    padding-left: 80px;
-    padding-right: 80px ; 
-    height: 570px;
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row-reverse;
-    align-items: start;
-    margin-top: 100px;
-    padding-left: 80px;
-    padding-right: 80px;
-
-} */
 .content2 {
     width: 100%;
     height: 570px;
@@ -179,8 +156,6 @@
     margin-top: 100px;
     padding-left: 80px;
     padding-right: 80px;
-    
-
 }
 
 .sentence2 {
